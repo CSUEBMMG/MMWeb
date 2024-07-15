@@ -16,4 +16,4 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 gem "middleman-bower"
 gem "middleman-blog"
 gem 'less'
-gem "therubyracer", "0.12.2"
+gem "therubyracer", "~>0.12.2"
